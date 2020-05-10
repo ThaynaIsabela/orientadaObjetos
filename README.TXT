@@ -1,12 +1,6 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
+TITULO DO PROJETO: FIB - Aula Programação Orientada a Objetos
+OBJETIVO DO PROJETO: Repositório para todos os exercícios da matério POO
 VERSÃO ou DATA:
 COMO INICIAR O PROJETO:
-AUTORES:
+AUTORES: Thayná Isabela Collaço
 INSTRUÇÕES PARA O USUÁRIO:
